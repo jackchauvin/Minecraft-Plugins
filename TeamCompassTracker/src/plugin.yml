@@ -1,0 +1,9 @@
+name: TeamCompassTracker
+version: 1.0
+author: Jack
+main: me.jack.teamcompasstracker.Main
+description: track "hunted" team with compass
+
+commands:
+  hunter:
+    description: Makes Hunters and Hunted Teams. Makes player first Hunter

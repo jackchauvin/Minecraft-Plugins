@@ -1,0 +1,5 @@
+name: InfiniteReach
+version: 1.0
+author: Jack
+main: me.jack.infinitereach.Main
+description: make player reach go to 100 blocks!
